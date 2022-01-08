@@ -5,7 +5,7 @@ Tongji University ML final Assign
 ### 一. 引言
 - 项目背景
   - 背景概述：钢铁是现代最重要的建筑材料之一，为了帮助提高钢铁生产效率和质量，通过机器学习高频摄像机的图像来进行钢铁的缺陷识别成为提高自动化水平的重要路径。除了识别，做好钢板上表面缺陷的定位和分类，也有利于提高钢铁的高制造标准，对企业提高市场竞争力有突出作用。
-  - 项目来源：该项目主要来源于Kaggle上的一个比赛项目[“Severstal: Steel Defect Detection”](https://www.kaggle.com/c/severstal-steel-defect-detection/overview/evaluation)。<img src="img/result.jpg" width = "300" align=right />
+  - 项目来源：该项目主要来源于Kaggle上的一个比赛项目[“Severstal: Steel Defect Detection”](https://www.kaggle.com/c/severstal-steel-defect-detection/overview/evaluation)。<img src="img/result.jpg" width = "301" align=right />
   - 项目简介： 
   钢铁是现代最重要的建筑材料之一，为了帮助提高钢铁生产效率和质量，通过机器学习高频摄像机的图像来进行钢铁的缺陷识别成为提高自动化水平的重要路径。做好钢板上表面缺陷的定位和分类，也有利于提高钢铁的高制造标准、对企业提高市场竞争力有突出作用。
   - 我们的目标：1. 识别缺陷位置；2. 对缺陷类别进行分类。
